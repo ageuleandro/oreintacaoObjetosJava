@@ -6,6 +6,7 @@ public class Employee {
 	public double grossSalary;
 	public double tax;
 	//Login criado
+	//Criado Formulario
 	
 	
 	public double netSalary() {
