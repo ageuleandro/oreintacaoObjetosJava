@@ -1,5 +1,8 @@
 package application;
 //Criado Página de Pedidos
+//Criado Página de Pedidos
+//Criado Página de Pedidos
+//Criado Página de Pedidos
 import java.util.Locale;
 import java.util.Scanner;
 import entities.Triangle;
